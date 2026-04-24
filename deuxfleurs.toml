@@ -15,10 +15,10 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/organisations/"
+from = "/organisations/index.html"
 to = "/les-constructeurs-solidaires/"
 
 [[redirects]]
-from = "/actualites/2025-01-01-le-studio-pourquoi-pas-la-regie-de-quartier-daubervilliers-et-nour-edde-deviennent-societaires-de-co/"
+from = "/actualites/2025-01-01-le-studio-pourquoi-pas-la-regie-de-quartier-daubervilliers-et-nour-edde-deviennent-societaires-de-co/index.html"
 to = "/actualites/2025-01-01-construire-solidaire-accueille-trois-nouveaux-membres/"
 
