@@ -19,6 +19,10 @@ from = "/organisations/index.html"
 to = "/les-constructeurs-solidaires/"
 
 [[redirects]]
+from = "/fichiers/2026/index.html"
+to = "/fichiers/2026/plaquette-propaillepdf/"
+
+[[redirects]]
 from = "/actualites/2025-01-01-le-studio-pourquoi-pas-la-regie-de-quartier-daubervilliers-et-nour-edde-deviennent-societaires-de-co/index.html"
 to = "/actualites/2025-01-01-construire-solidaire-accueille-trois-nouveaux-membres/"
 
